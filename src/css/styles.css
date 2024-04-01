@@ -1145,6 +1145,15 @@ p {
 .section-form {
   padding-top: 60px;
   padding-bottom: 60px;
+
+  max-width: 428px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-image: url(../images/arrow-down-mobile-1x.png);
+  background-repeat: no-repeat;
+  background-position: right 0 top 162px;
 }
 
 .motivation-container {
