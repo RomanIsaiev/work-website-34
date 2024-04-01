@@ -15,6 +15,7 @@
     "jquery": "^3.7.1",
     "jquery.marquee": "^1.6.0",
     "modern-normalize": "^2.0.0",
+    "swiper": "^11.1.0",
     "vanilla-infinite-marquee": "^1.0.9",
     "vanilla-marquee": "^1.1.2"
   }

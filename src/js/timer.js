@@ -55,10 +55,10 @@ initializeClock(
   '.minutes-two',
   '.seconds-two'
 );
-initializeClock(
-  'countdown-three',
-  deadline,
-  '.hours-three',
-  '.minutes-three',
-  '.seconds-three'
-);
+// initializeClock(
+//   'countdown-three',
+//   deadline,
+//   '.hours-three',
+//   '.minutes-three',
+//   '.seconds-three'
+// );
